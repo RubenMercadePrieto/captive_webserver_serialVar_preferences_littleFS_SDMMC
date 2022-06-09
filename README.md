@@ -1,6 +1,6 @@
 # captive_webserver_serialVar_preferences_littleFS_SDMMC
 
-Added LittleFS (esp32 version 2.0, hence written as LittleFS) and SD_MMC compatibility. Can show LittleFS files, download main flash file (e.g. data.csv), and show and download all SD files.
+Added LittleFS (esp32 version 2.0, hence written as LittleFS) and SD_MMC compatibility. Can show LittleFS files, download main experimenta file in flash memory (e.g. data.csv), and show and download all SD files.
 
 ![Image1](/image1.png)
 ![Image2](/image2.png)
